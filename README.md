@@ -21,9 +21,6 @@ Exploring the front-end in order to see sunrise in the backend  :)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erfan-Shafiei&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Erfan-Shafiei&icon=0&color=0)](https://visitcount.itsvg.in)
 
